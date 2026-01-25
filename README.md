@@ -1,102 +1,51 @@
 # Hi, I’m Reaksa 👋
+### Backend Developer | Focused on Production-Grade Python Systems 
+**Specializing in Django, FastAPI, and Domain-Driven Design.**
 
-Backend Developer specializing in Python, Django, and API driven systems. I build production oriented backend services with a focus on clean architecture, security, and scalability.
-
----
-
-## What I Do
-I build backend systems that reflect real world business needs - not just CRUD apps. I enjoy solving problems around:
-
-- Real business logic and domain modeling
-- Backend architecture & system design
-- Async processing & background jobs
-- Databases and data consistency
-
-### Areas I Focus On
-- Designing RESTful APIs used by real applications
-- Modeling business domains (inventory, orders, users, permissions)
-- Writing testable, maintainable backend code
-- Preparing systems for production deployment
-
-I prefer projects that simulate real world backend work, including role based access control, transactions & data integrity, async workflows, and environment based configuration.
+I don't just build CRUD apps; I architect backend services that solve real-world business challenges. My focus is on **Domain Modeling, Security, and Scalability.**
 
 ---
 
-## Tech Stack
-
-### Backend
-- Python
-- Django, Django REST Framework
-- FastAPI (learning / adopting)
-- JWT Authentication & OAuth2
-- Celery + Redis
-
-### Databases
-- MySql
-- PostgreSQL
-- Database modeling & query optimization
-
-### DevOps / Deployment
-- Docker
-- Railway (deployment)
-- Gunicorn
-- Environment based settings
-- Linux
-
-### Testing
-- pytest
-- pytest-django
-- API & async task testing
+## 🏗️ Core Expertise
+* **Domain-Driven Design:** Translating complex workflows (Inventory, Orders, Permissions) into maintainable code.
+* **System Integrity:** Implementing RBAC, database transactions, and data consistency patterns.
+* **Async Workflows:** Scaling background processing using Celery and Redis.
+* **Production Readiness:** Designing for the "real world"—Dockerized environments and comprehensive testing.
 
 ---
 
-## Featured Project — Inventory Management System (Backend)
-A production ready backend system designed around real business workflows.
+## 🛠️ Tech Stack
 
-- Tech: Django · DRF · PostgreSQL · Celery · Redis · JWT  
-- Status: Deployed & tested  
-- Tests: 35 passing tests (domain, API, async)
-
-Live API & Swagger:  
-https://inventory-management-backend-production-7584.up.railway.app/
-
-Repository:  
-https://github.com/longreaksa404/inventory-management-backend
-
-Highlights:
-- Role based access control (RBAC)
-- Multi warehouse inventory tracking
-- Stock transactions with audit trail
-- Purchase & sales order workflows
-- Async email notifications
-- Production ready configuration
-
-This project was built as a portfolio grade backend system, not a tutorial app.
+| Category | Tools |
+| :--- | :--- |
+| **Frameworks** | Python, Django (DRF), FastAPI (Active Mastery) |
+| **Data & Cache** | PostgreSQL, MySQL, Redis |
+| **Async & Logic** | Celery, Task Queues, JWT / OAuth2 |
+| **Infrastructure** | Docker, Railway, Gunicorn, Linux |
+| **Testing** | Pytest, Pytest-Django, Mocking |
 
 ---
 
-## What I’m Working On Next
-- Deepening FastAPI knowledge (async first backends)
-- Building a transaction & order processing service with FastAPI
-- Improving backend system design skills
-- Preparing for backend job interviews
+## 🏆 Featured Project: Inventory Management System (IMS)
+*A production-ready backend designed around professional multi-warehouse workflows.*
+
+**[Live API & Swagger](https://inventory-management-backend-production-7584.up.railway.app/) • [GitHub Repository](https://github.com/longreaksa404/inventory-management-backend)**
+
+* **Architecture:** Built with Django + DRF, focusing on an audit-trailed stock transaction system.
+* **Security:** Multi-level RBAC (Role-Based Access Control) and JWT Authentication.
+* **Reliability:** 35+ automated tests covering domain logic, API integrity, and async tasks.
+* **DevOps:** Fully containerized with Docker for consistent deployment.
 
 ---
 
-## Career Goal
-I aim to work as a backend developer where I can:
-- Design and maintain scalable APIs
-- Work on real systems used by real users
-- Grow into advanced backend & system design roles
+## 🎯 Current Focus
+* **FastAPI Mastery:** Shifting from "Sync-first" to "High-concurrency Async" architectures.
+* **System Design:** Deepening knowledge in Distributed Systems and Microservices.
+* **New Project:** Building a high-throughput transaction service using **FastAPI** and **SQLModel**.
 
 ---
 
-## Contact
-- GitHub: [longreaksa404](https://github.com/longreaksa404)  
-- Email: helloworldreaksa@gmail.com
-- Linkedin: https://www.linkedin.com/in/long-chansamanakreaksa-64930b34b
-
----
-If you want to collaborate or review any of my projects, feel free to reach out!
-
----
+## 📫 Connect with me
+* **LinkedIn:** [Long Chansamanakreaksa](https://www.linkedin.com/in/long-chansamanakreaksa-64930b34b)
+* **GitHub:** [@longreaksa404](https://github.com/longreaksa404)
+* **Email:** [helloworldreaksa@gmail.com](mailto:helloworldreaksa@gmail.com)
