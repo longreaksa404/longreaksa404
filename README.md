@@ -1,6 +1,6 @@
 # Hi, I’m Reaksa 👋
 ### Backend Developer | Focused on Production-Grade Python Systems 
-**Specializing in Django, FastAPI, and Domain-Driven Design.**
+**Specializing in Django, and Domain-Driven Design.**
 
 I don't just build CRUD apps; I architect backend services that solve real-world business challenges. My focus is on **Domain Modeling, Security, and Scalability.**
 
@@ -18,9 +18,9 @@ I don't just build CRUD apps; I architect backend services that solve real-world
 
 | Category | Tools |
 | :--- | :--- |
-| **Frameworks** | Python, Django (DRF), FastAPI (Active Mastery) |
+| **Frameworks** | Python, Django (DRF) |
 | **Data & Cache** | PostgreSQL, MySQL, Redis |
-| **Async & Logic** | Celery, Task Queues, JWT / OAuth2 |
+| **Async & Logic** | Celery, Task Queues, JWT |
 | **Infrastructure** | Docker, Railway, Gunicorn, Linux |
 | **Testing** | Pytest, Pytest-Django, Mocking |
 
@@ -35,13 +35,6 @@ I don't just build CRUD apps; I architect backend services that solve real-world
 * **Security:** Multi-level RBAC (Role-Based Access Control) and JWT Authentication.
 * **Reliability:** 35+ automated tests covering domain logic, API integrity, and async tasks.
 * **DevOps:** Fully containerized with Docker for consistent deployment.
-
----
-
-## 🎯 Current Focus
-* **FastAPI Mastery:** Shifting from "Sync-first" to "High-concurrency Async" architectures.
-* **System Design:** Deepening knowledge in Distributed Systems and Microservices.
-* **New Project:** Building a high-throughput transaction service using **FastAPI** and **SQLModel**.
 
 ---
 
