@@ -29,7 +29,7 @@ I don't just build CRUD apps; I architect backend services that solve real-world
 ## 🏆 Featured Project: Inventory Management System (IMS)
 *A production-ready backend designed around professional multi-warehouse workflows.*
 
-**[Live API & Swagger](https://inventory-management-backend-production-7584.up.railway.app/) • [GitHub Repository](https://github.com/longreaksa404/inventory-management-backend)**
+**[Live API & Swagger](https://inventory-management-backend-g3e7.onrender.com/swagger/) • [GitHub Repository](https://github.com/longreaksa404/inventory-management-backend)**
 
 * **Architecture:** Built with Django + DRF, focusing on an audit-trailed stock transaction system.
 * **Security:** Multi-level RBAC (Role-Based Access Control) and JWT Authentication.
