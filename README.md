@@ -22,7 +22,7 @@ I build backend systems that are designed to last not just to ship. My focus is 
 
 ---
 
-## Stack
+## Tech Stack
 
 | Layer | Tools |
 |---|---|
