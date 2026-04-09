@@ -43,14 +43,14 @@ A **production-ready** backend for multi-warehouse inventory management built wi
 - Fully containerized with Docker for consistent development and deployment
 - Well-documented API with Swagger UI
 
-→ **Live API & Swagger**  
+→ **[Live API & Swagger](https://inventory-management-backend-g3e7.onrender.com/swagger/)**  
 → **[GitHub Repository](https://github.com/longreaksa404/inventory-management-backend)** 
 
 ---
 
 ### 📫 Let's Connect
 
-- **LinkedIn**: [Long Chansamanakreaksa](https://www.linkedin.com/in/long-chansamanakreaksa/)
+- **LinkedIn**: [Long Chansamanakreaksa](https://www.linkedin.com/in/long-chansamanakreaksa-64930b34b)
 - **GitHub**: [@longreaksa404](https://github.com/longreaksa404)
 - **Email**: [helloworldreaksa@gmail.com](mailto:helloworldreaksa@gmail.com)
 
