@@ -1,44 +1,50 @@
-# Hi, I’m Reaksa 👋
-### Backend Developer | Focused on Production-Grade Python Systems 
-**Specializing in Django, and Domain-Driven Design.**
+# Long Chansamanakreaksa (Reaksa)
 
-I don't just build CRUD apps; I architect backend services that solve real-world business challenges. My focus is on **Domain Modeling, Security, and Scalability.**
+Backend Engineer · Python · Django · Domain-Driven Design
 
----
-
-## 🏗️ Core Expertise
-* **Domain-Driven Design:** Translating complex workflows (Inventory, Orders, Permissions) into maintainable code.
-* **System Integrity:** Implementing RBAC, database transactions, and data consistency patterns.
-* **Async Workflows:** Scaling background processing using Celery and Redis.
-* **Production Readiness:** Designing for the "real world"—Dockerized environments and comprehensive testing.
+[LinkedIn](https://www.linkedin.com/in/long-chansamanakreaksa-64930b34b) · [GitHub](https://github.com/longreaksa404) · [helloworldreaksa@gmail.com](mailto:helloworldreaksa@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
-
-| Category | Tools |
-| :--- | :--- |
-| **Frameworks** | Python, Django (DRF) |
-| **Data & Cache** | PostgreSQL, MySQL, Redis |
-| **Async & Logic** | Celery, Task Queues, JWT |
-| **Infrastructure** | Docker, Railway, Gunicorn, Linux |
-| **Testing** | Pytest, Pytest-Django, Mocking |
+I build backend systems that are designed to last — not just to ship. My focus is on domain modeling, data integrity, and the engineering decisions that separate a prototype from a production service.
 
 ---
 
-## 🏆 Featured Project: Inventory Management System (IMS)
-*A production-ready backend designed around professional multi-warehouse workflows.*
+## Core Expertise
 
-**[Live API & Swagger](https://inventory-management-backend-g3e7.onrender.com/swagger/) • [GitHub Repository](https://github.com/longreaksa404/inventory-management-backend)**
+**Domain-Driven Design** — Translating complex business workflows (inventory, orders, multi-level permissions) into maintainable, expressive code.
 
-* **Architecture:** Built with Django + DRF, focusing on an audit-trailed stock transaction system.
-* **Security:** Multi-level RBAC (Role-Based Access Control) and JWT Authentication.
-* **Reliability:** 35+ automated tests covering domain logic, API integrity, and async tasks.
-* **DevOps:** Fully containerized with Docker for consistent deployment.
+**System Integrity** — Role-based access control, database transactions, and data consistency patterns that hold up under real conditions.
+
+**Async Workflows** — Background processing at scale using Celery and Redis.
+
+**Production Readiness** — Dockerized environments, comprehensive test coverage, and deployment on Railway/Render.
 
 ---
 
-## 📫 Connect with me
-* **LinkedIn:** [Long Chansamanakreaksa](https://www.linkedin.com/in/long-chansamanakreaksa-64930b34b)
-* **GitHub:** [@longreaksa404](https://github.com/longreaksa404)
-* **Email:** [helloworldreaksa@gmail.com](mailto:helloworldreaksa@gmail.com)
+## Stack
+
+| Layer | Tools |
+|---|---|
+| Frameworks | Python, Django, Django REST Framework |
+| Data & Cache | PostgreSQL, MySQL, Redis |
+| Async & Auth | Celery, Task Queues, JWT |
+| Infrastructure | Docker, Railway, Gunicorn, Linux |
+| Testing | Pytest, Pytest-Django, Mocking |
+
+---
+
+## Featured Project — Inventory Management System
+
+A production-ready backend built around professional multi-warehouse workflows.
+
+**[Live API & Swagger Docs](https://inventory-management-backend-g3e7.onrender.com/swagger/)** · **[GitHub](https://github.com/longreaksa404/inventory-management-backend)**
+
+- Audit-trailed stock transaction system with full movement history
+- Multi-level RBAC and JWT authentication throughout
+- 35+ automated tests covering domain logic, API integrity, and async tasks
+- Fully containerized with Docker for consistent local and production environments
+
+---
+
+*Open to backend engineering roles and interesting collaboration. Reach out anytime.*
