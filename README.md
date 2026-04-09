@@ -10,9 +10,9 @@ I don't just build CRUD applications — I design robust, maintainable backend s
 ### 🏗️ Core Expertise
 
 - **Domain-Driven Design**: Turning complex business domains (Inventory, Orders, Multi-tenant, Permissions, Workflows) into clean, maintainable code.
-- **System Integrity**: RBAC, database transactions, audit trails, and consistency patterns.
+- **System Integrity**: RBAC, database transactions, and audit trails.
 - **Async & Background Processing**: High-performance task queues with Celery + Redis.
-- **Production Readiness**: Dockerized environments, comprehensive testing, and observability-focused architecture.
+- **Production Readiness**: Dockerized environments, and testing.
 
 ---
 
@@ -24,9 +24,9 @@ I don't just build CRUD applications — I design robust, maintainable backend s
 | **Frameworks**        | Django, Django REST Framework (DRF)                       |
 | **Databases & Cache** | PostgreSQL, MySQL, Redis                                  |
 | **Async & Tasks**     | Celery, Redis, Celery Beat, Task Queues                   |
-| **Authentication**    | JWT, OAuth2, Custom RBAC                                  |
+| **Authentication**    | JWT, Custom RBAC                                          |
 | **Infrastructure**    | Docker, Docker Compose, Gunicorn, Nginx, Railway          |
-| **Testing**           | Pytest, Pytest-Django, Factory Boy, Mocking               |
+| **Testing**           | Pytest, Pytest-Django                                     |
 | **Other**             | Linux, Git, GitHub Actions, Swagger/OpenAPI               |
 
 ---
