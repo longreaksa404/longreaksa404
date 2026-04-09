@@ -44,7 +44,7 @@ A **production-ready** backend for multi-warehouse inventory management built wi
 - Well-documented API with Swagger UI
 
 → **Live API & Swagger**  
-→ **[GitHub Repository](https://github.com/longreaksa404/inventory-management-system)** (replace with actual link)
+→ **[GitHub Repository](https://github.com/longreaksa404/inventory-management-backend)** 
 
 ---
 
@@ -55,5 +55,3 @@ A **production-ready** backend for multi-warehouse inventory management built wi
 - **Email**: [helloworldreaksa@gmail.com](mailto:helloworldreaksa@gmail.com)
 
 ---
-
-*Always learning, building, and improving systems that matter.*
