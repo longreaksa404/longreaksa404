@@ -6,19 +6,19 @@ Backend Engineer · Python · Django · Domain-Driven Design
 
 ---
 
-I build backend systems that are designed to last — not just to ship. My focus is on domain modeling, data integrity, and the engineering decisions that separate a prototype from a production service.
+I build backend systems that are designed to last not just to ship. My focus is on domain modeling, data integrity, and the engineering decisions that separate a prototype from a production service.
 
 ---
 
 ## Core Expertise
 
-**Domain-Driven Design** — Translating complex business workflows (inventory, orders, multi-level permissions) into maintainable, expressive code.
+**Domain-Driven Design** - Translating complex business workflows (inventory, orders, multi-level permissions) into maintainable, expressive code.
 
-**System Integrity** — Role-based access control, database transactions, and data consistency patterns that hold up under real conditions.
+**System Integrity** - Role-based access control, database transactions, and data consistency patterns that hold up under real conditions.
 
-**Async Workflows** — Background processing at scale using Celery and Redis.
+**Async Workflows** - Background processing at scale using Celery and Redis.
 
-**Production Readiness** — Dockerized environments, comprehensive test coverage, and deployment on Railway/Render.
+**Production Readiness** - Dockerized environments, comprehensive test coverage, and deployment on Railway/Render.
 
 ---
 
