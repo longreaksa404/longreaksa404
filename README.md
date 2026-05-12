@@ -34,6 +34,7 @@ Built solo as a university challenge entry (4-person team scope). The system han
 
 | Role | Email |
 |---|---|
+| Super Admin | admin@rema.vn |
 | Emergency Coordinator | coordinator@rema.vn |
 | Hub Manager | hub1@rema.vn |
 | Volunteer | volunteer1@rema.vn |
