@@ -25,7 +25,7 @@ Built solo as a university challenge entry (4-person team scope). The system han
 
 | | |
 |---|---|
-| Frontend | https://rema-frontend-delta.vercel.app |
+| Frontend | https://rema-system.vercel.app  |
 | Backend API | https://rema-medical-logistics.onrender.com |
 | Swagger docs | https://rema-medical-logistics.onrender.com/api/docs |
 | Repository | [longreaksa404/rema-medical-logistics](https://github.com/longreaksa404/rema-medical-logistics) |
