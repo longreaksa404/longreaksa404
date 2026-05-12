@@ -4,11 +4,6 @@
 
 I build backend systems that handle real complexity domain-driven Python services, typed Node.js APIs, CI/CD pipelines, and AI-integrated applications. Currently targeting backend and full-stack roles across Cambodia and Southeast Asia.
 
-[![CI — REMA](https://github.com/longreaksa404/rema-medical-logistics/actions/workflows/ci.yml/badge.svg)](https://github.com/longreaksa404/rema-medical-logistics/actions/workflows/ci.yml)
-[![Backend](https://img.shields.io/badge/REMA_backend-live-brightgreen)](https://rema-medical-logistics.onrender.com)
-[![Frontend](https://img.shields.io/badge/REMA_frontend-live-brightgreen)](https://rema-frontend-delta.vercel.app)
-[![Swagger](https://img.shields.io/badge/API_docs-Swagger-orange)](https://rema-medical-logistics.onrender.com/api/docs)
-
 ---
 
 ## Featured Projects
@@ -43,25 +38,6 @@ Built solo as a university challenge entry (4-person team scope). The system han
 | Hub Manager | hub1@rema.vn |
 | Volunteer | volunteer1@rema.vn |
 | Viewer | viewer@rema.vn |
-
----
-
-### Inventory Management System (IMS)
-
-Production-ready multi-warehouse inventory backend using **Domain-Driven Design**. Built to demonstrate how a complex business domain translates into clean, maintainable architecture.
-
-- Rich domain model with full audit trail for every stock transaction
-- Multi-level RBAC with granular permissions
-- Async background processing with Celery + Redis
-- 35+ automated tests covering domain logic, API behavior, and async flows
-- Fully containerized with Docker, Gunicorn, and Nginx
-
-**Stack:** Python · Django · Django REST Framework · PostgreSQL · Celery · Redis · Docker · Pytest · Swagger
-
-| | |
-|---|---|
-| Live API + Swagger | https://inventory-management-backend-g3e7.onrender.com/swagger/ |
-| Repository | [longreaksa404/inventory-management-backend](https://github.com/longreaksa404/inventory-management-backend) |
 
 ---
 
