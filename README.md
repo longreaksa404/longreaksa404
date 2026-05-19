@@ -1,4 +1,4 @@
-**Long Chansamanakreaksa (Reaksa)**  
+## Long Chansamanakreaksa (Reaksa)  
 Backend developer · Phnom Penh, Cambodia
 
 I build typed backend systems - Node.js APIs, Django services, CI/CD pipelines, AI integrations.  
@@ -17,14 +17,15 @@ Emergency medical logistics system for the Viet Nam Red Cross. Built solo (4-per
 
 ---
 
-### Stack
-
-| | |
+### Tech Stack
+| Category | Tools |
 |---|---|
-| Node.js | TypeScript · Express · Prisma · Jest · JWT · Swagger |
-| Python | Django · DRF · Celery · Redis · Pytest |
-| Frontend | React · Vite · TypeScript · Tailwind CSS |
-| Infra | Docker · GitHub Actions · Render · Supabase · Vercel |
+| **Node.js ecosystem** | TypeScript · Express · Prisma · Jest + ts-jest · JWT · Swagger |
+| **Python ecosystem** | Django · DRF · Celery · Redis · Pytest · Gunicorn · Nginx |
+| **Frontend** | React (Vite) · TypeScript · Tailwind CSS · Recharts · Leaflet.js |
+| **Databases** | PostgreSQL · MySQL · Redis |
+| **Infrastructure** | Docker · Docker Compose · GitHub Actions · Render · Supabase · Vercel |
+| **Practices** | Domain-Driven Design · RBAC · Audit trails · REST APIs · CI/CD |
 
 ---
 
