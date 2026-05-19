@@ -1,14 +1,14 @@
 **Long Chansamanakreaksa (Reaksa)**  
 Backend developer · Phnom Penh, Cambodia
 
-I build typed backend systems — Node.js APIs, Django services, CI/CD pipelines, AI integrations.  
+I build typed backend systems - Node.js APIs, Django services, CI/CD pipelines, AI integrations.  
 Targeting backend and full-stack roles across Cambodia and Southeast Asia.
 
 ---
 
 ### Featured
 
-**REMA — Rapid Emergency Medical Access**  
+**REMA - Rapid Emergency Medical Access**  
 Emergency medical logistics system for the Viet Nam Red Cross. Built solo (4-person team scope).
 
 `Node.js` `TypeScript` `Express` `Prisma` `React` `Tailwind` `PostgreSQL` `Docker` `GitHub Actions` `Anthropic API`
